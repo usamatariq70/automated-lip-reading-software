@@ -11,3 +11,5 @@ DLIB, Keras
 
 # Dataset:
 https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html
+
+For more information related to the project and dataset you can contact me at: usamatariq135@gmail.com
