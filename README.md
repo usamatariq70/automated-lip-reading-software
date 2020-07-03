@@ -7,8 +7,7 @@ Lip-reading is the understanding of the speaker&#39;s lips shape developments wh
 Python
 
 # Libraries:
-DLIB
-Keras
+DLIB, Keras
 
 # Dataset:
 https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html
